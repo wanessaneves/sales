@@ -5,4 +5,5 @@
 - um produto vai ter: nome, valor, id
 - uma venda vai ter: total, cliente, produtos, id
 - todos os id vão ser gerados automaticamente(usar a lib uuid)
- 
+- criar três variáveis em um arquivo db, uma vai se chamar products, a outra, customer e a outra sales, serão listas vazias.
+- depois vou criar funções em uma pasta que pode se chamar service, elas irão receber valores, que serão responsáveis por inserir os dados na lista 
