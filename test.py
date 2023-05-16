@@ -3,7 +3,7 @@ from src.models.product import Product
 from src.models.sale import Sale
 
 
-c1 = Customer('Mozão', 'mozaovidinha@gmail.com')
+c1 = Customer('Teste', 'teste@gmail.com')
 
 p1 = Product('pão', 5.0)
 p2 = Product('chá', 2.0)
